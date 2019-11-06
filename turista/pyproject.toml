@@ -10,6 +10,7 @@ numpy = "^1.17"
 seaborn = "^0.9.0"
 sphinx-advanced = "^0.3.0"
 colorama = "^0.4.1"
+click = "^7.0"
 
 [tool.poetry.dev-dependencies]
 ipython = "^7.9"
