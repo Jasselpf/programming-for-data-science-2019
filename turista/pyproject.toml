@@ -1,6 +1,9 @@
 [tool.poetry]
 name = "turista"
 version = "0.1.0"
+description = "simulador del juego de mesa turista"
+authors = ["JasselPF <masoja.pf@gmail.com>"]
+
 [tool.poetry.dependencies]
 python = "^3.7"
 numpy = "^1.17"
